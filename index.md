@@ -1,3 +1,5 @@
+![Target speech extraction teaser](img/target_speech_extraction.png)
+
 ## Supporting materials
 
 Here you can find supporting materials for [Interspeech 2021](https://www.interspeech2021.org/) tutorial on Neural target speech extraction. 
