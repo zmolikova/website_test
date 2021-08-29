@@ -2,7 +2,7 @@
 
 ## Supporting materials
 
-Here you can find supporting materials for [Interspeech 2021](https://www.interspeech2021.org/) tutorial on Neural target speech extraction. 
+Here you can find supporting materials for [Interspeech 2021](https://www.interspeech2021.org/){:target="_blank" rel="noopener"} tutorial on Neural target speech extraction. 
 
 - Slides [pdf](slides/IS21_TSE_tutorial.pdf) [pptx](slides/IS21_TSE_tutorial.pptx)
 - [SpeakerBeam implementation](https://github.com/BUTSpeechFIT/speakerbeam){:target="_blank" rel="noopener"}
